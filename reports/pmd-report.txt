@@ -1,0 +1,97 @@
+src/Biblioteca.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Biblioteca.java:17:	The class 'Biblioteca' has a Modified Cyclomatic Complexity of 2 (Highest = 6).
+src/Biblioteca.java:24:	The constructor 'Biblioteca' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:30:	The method 'setNombre' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:33:	The method 'setSocios' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:36:	The method 'setLibros' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:40:	The method 'getNombre' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:43:	The method 'getSocios' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:46:	The method 'getLibros' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:50:	The method 'addSocio' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:53:	The method 'removeSocio' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:57:	The method 'addLibro' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:60:	The method 'removeLibro' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:66:	The method 'nuevoLibro' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:73:	The method 'nuevoSocioEstudiante' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:80:	The method 'nuevoSocioDocente' has a Modified Cyclomatic Complexity of 1.
+src/Biblioteca.java:88:	The method 'cantidadSociosPorTipo' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:100:	The method 'prestarLibro' has a Modified Cyclomatic Complexity of 6.
+src/Biblioteca.java:145:	The method 'devolverLibro' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:163:	The method 'prestamosVencidos' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:180:	The method 'docentesResponsables' has a Modified Cyclomatic Complexity of 4.
+src/Biblioteca.java:194:	The method 'quienTieneElLibro' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:207:	The method 'buscarSocio' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:219:	The method 'listaDeSocios' has a Modified Cyclomatic Complexity of 2.
+src/Biblioteca.java:238:	The method 'listaDeLibros' has a Modified Cyclomatic Complexity of 3.
+src/Biblioteca.java:257:	The method 'listaDeDocentesResponsables' has a Modified Cyclomatic Complexity of 2.
+src/Docente.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Docente.java:10:	The class 'Docente' has a Modified Cyclomatic Complexity of 1 (Highest = 2).
+src/Docente.java:15:	The constructor 'Docente' has a Modified Cyclomatic Complexity of 1.
+src/Docente.java:22:	The constructor 'Docente' has a Modified Cyclomatic Complexity of 1.
+src/Docente.java:27:	The method 'setArea' has a Modified Cyclomatic Complexity of 1.
+src/Docente.java:31:	The method 'getArea' has a Modified Cyclomatic Complexity of 1.
+src/Docente.java:37:	The method 'agregarDiasDePrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Docente.java:44:	The method 'esResponsable' has a Modified Cyclomatic Complexity of 2.
+src/Docente.java:54:	The method 'soyDeLaClase' has a Modified Cyclomatic Complexity of 1.
+src/Estudiante.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Estudiante.java:9:	The class 'Estudiante' has a Modified Cyclomatic Complexity of 1 (Highest = 2).
+src/Estudiante.java:14:	The constructor 'Estudiante' has a Modified Cyclomatic Complexity of 1.
+src/Estudiante.java:21:	The constructor 'Estudiante' has a Modified Cyclomatic Complexity of 1.
+src/Estudiante.java:26:	The method 'setCarrera' has a Modified Cyclomatic Complexity of 1.
+src/Estudiante.java:30:	The method 'getCarrera' has a Modified Cyclomatic Complexity of 1.
+src/Estudiante.java:37:	The method 'puedePedir' has a Modified Cyclomatic Complexity of 2.
+src/Estudiante.java:47:	The method 'soyDeLaClase' has a Modified Cyclomatic Complexity of 1.
+src/GestionBiblioteca.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/GestionBiblioteca.java:8:	The class 'GestionBiblioteca' has a Modified Cyclomatic Complexity of 42 (Highest = 41).
+src/GestionBiblioteca.java:10:	The method 'main' has a Modified Cyclomatic Complexity of 41.
+src/GestionBiblioteca.java:10:	The method main() has an NPath complexity of 219
+src/Libro.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Libro.java:11:	The class 'Libro' has a Modified Cyclomatic Complexity of 1 (Highest = 2).
+src/Libro.java:20:	The constructor 'Libro' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:28:	The method 'setTitulo' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:31:	The method 'setEdicion' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:34:	The method 'setEditorial' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:37:	The method 'setAnio' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:40:	The method 'setPrestamos' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:44:	The method 'getEdicion' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:47:	The method 'getTitulo' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:50:	The method 'getEditorial' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:53:	The method 'getAnio' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:56:	The method 'getPrestamos' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:59:	The method 'getPrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:64:	The method 'addPrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:67:	The method 'removePrestamos' has a Modified Cyclomatic Complexity of 1.
+src/Libro.java:73:	The method 'prestado' has a Modified Cyclomatic Complexity of 2.
+src/Libro.java:85:	The method 'toString' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Prestamo.java:9:	The class 'Prestamo' has a Modified Cyclomatic Complexity of 1 (Highest = 1).
+src/Prestamo.java:17:	The constructor 'Prestamo' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:25:	The constructor 'Prestamo' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:31:	The method 'setFechaRetiro' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:34:	The method 'setFechaDevolucion' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:37:	The method 'setSocio' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:40:	The method 'setLibro' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:44:	The method 'getFechaRetiro' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:47:	The method 'getFechaDevolucion' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:50:	The method 'getSocio' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:53:	The method 'getLibro' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:63:	The method 'vencido' has a Modified Cyclomatic Complexity of 1.
+src/Prestamo.java:76:	The method 'toString' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:1:	A high number of imports can indicate a high degree of coupling within an object.
+src/Socio.java:10:	The class 'Socio' has a Modified Cyclomatic Complexity of 1 (Highest = 3).
+src/Socio.java:18:	The constructor 'Socio' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:27:	The constructor 'Socio' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:33:	The method 'setDniSocio' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:36:	The method 'setNombre' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:39:	The method 'setDiasPrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:42:	The method 'setPrestamos' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:46:	The method 'getDniSocio' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:49:	The method 'getNombre' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:52:	The method 'getDiasPrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:55:	The method 'getPrestamos' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:64:	The method 'addPrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:72:	The method 'removePrestamo' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:81:	The method 'soyDeLaClase' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:88:	The method 'cantLibrosPrestados' has a Modified Cyclomatic Complexity of 1.
+src/Socio.java:98:	The method 'puedePedir' has a Modified Cyclomatic Complexity of 3.
+src/Socio.java:114:	The method 'toString' has a Modified Cyclomatic Complexity of 1.
