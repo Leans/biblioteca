@@ -1,4 +1,4 @@
-
+//import java.util.*;
 /** Abstraccion de un docente en la clase Docente.
  * Devuelve valor de verdad si el docente es responsable.
  * Devuelve una cadena con el nombre de la clase.
