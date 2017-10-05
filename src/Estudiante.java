@@ -1,4 +1,4 @@
-import java.util.*;  
+import java.util.*;
 /** Abstraccion de un estudiante en la clase Estudiante.
  * Devuelve una cadena con el nombre de la clase.
  * Devuelve un valor de verdad si el estudiante puede hacer un retiro de un libro de la biblioteca.
